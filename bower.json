@@ -1,0 +1,17 @@
+{
+    "name": "giveyouglory-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kimberly Geswein"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/giveyouglory-bower.git"
+    },
+    "description": "Give You Glory font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
